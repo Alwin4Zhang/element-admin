@@ -18,7 +18,7 @@ nodemon server,后端默认端口3001
 ### 启动第三方接口
 ```
 requirements[Flask]
-python app.py
+python app.py,默认端口9800
 ```
 
 ### Compiles and minifies for production
