@@ -1,8 +1,8 @@
 # element-admin
 
 ## Project initialize
-1.vue create element-admin ->  manually select features -> Babel & Router & Linter/Formatter & n
-2.cd element-admin -> vue add element -> Fully Import & No & zh-CN
+1.vue create element-admin ->  manually select features -> Babel & Router & Linter/Formatter & n  
+2.cd element-admin -> vue add element -> Fully Import & No & zh-CN  
 
 
 ## Project setup
