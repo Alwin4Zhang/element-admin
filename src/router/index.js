@@ -4,6 +4,7 @@ import CreateArticle from '../views/CreateArticle.vue'
 import ListArticle from '../views/ListArticle.vue'
 import EditArticle from "../views/EditArticle.vue"
 import ShowArticle from "../views/ShowArticle.vue"
+import ListPerson from "../views/ListPerson.vue"
 
 Vue.use(VueRouter)
 
@@ -32,6 +33,11 @@ const routes = [
     path: '/article/:id/show',
     name: 'show',
     component: ShowArticle
+  },
+  {
+    path: "/test",
+    name: "test",
+    component: ListPerson
   }
 ]
 
